@@ -1,0 +1,12 @@
+* {
+	font-family: Helvetica, sans-serif;
+}
+
+@keyframes splash{
+	0%{
+		opacity: 1;
+	}
+	100%{
+		opacity: 0;
+	}
+}
